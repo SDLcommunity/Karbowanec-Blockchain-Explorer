@@ -1,8 +1,8 @@
-var api = 'http://52.21.253.162:32348';
-var blockTargetInterval = 240;
-var coinUnits = 1000000000000;
-var symbol = 'KRB';
-var refreshDelay = 30000;
+var api = 'http://192.168.152.21:33712';
+var blockTargetInterval = 20;
+var coinUnits = 100000000;
+var symbol = 'SDL';
+var refreshDelay = 10000;
 // pools stats by MainCoins
 var networkStat = {
     "krb": [
